@@ -1,0 +1,11 @@
+div {margin-bottom: 5px;}
+
+input.btn.btn-danger {
+    float: right;
+}
+
+
+@media print {
+    .close,.modal-footer {
+        display :  none;
+    }
